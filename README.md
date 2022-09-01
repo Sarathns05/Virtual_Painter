@@ -17,7 +17,7 @@ Prerequisites:
    
    * Import all modules required for the project using this command
 
-pip install <module name>
+      pip install <module name>
 
 Features :
 -----------

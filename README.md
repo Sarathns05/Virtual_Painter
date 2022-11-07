@@ -36,3 +36,14 @@ Working :
    * If User shows only Index Finger than he/she is in drawing mode.
  
    * To Select different color or eraser from the top of Canvas, User must select it by taking his both Index and Middle finger together at the top of    icon.
+   
+# Demo :   
+   
+   ![Virtual Painter SCREEN](https://user-images.githubusercontent.com/108679625/200359227-d4fb70a9-60da-44a6-9447-c22c705b8516.png)
+
+   
+   
+   
+   
+   
+   

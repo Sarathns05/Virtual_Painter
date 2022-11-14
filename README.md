@@ -32,8 +32,10 @@ Working :
    * This project is a use case of Hand Tracking technology.
  
    * As soon as the user shows up his hand in the camera the application detects it & draws a bounding box around the hand.
+   
+   * If User shows Index Finger and Middle Finger then it's a selection mode.
  
-   * If User shows only Index Finger than he/she is in drawing mode.
+   * If User shows only Index Finger then he/she is in drawing mode.
  
    * To Select different color or eraser from the top of Canvas, User must select it by taking his both Index and Middle finger together at the top of    icon.
    
